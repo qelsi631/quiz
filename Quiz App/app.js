@@ -80,7 +80,7 @@ function checkAnswer(event) {
         loadQuestion();
     } else {
         alert("Kuizi Perfundoi Flm!");
-        // Optionally, reset the quiz or show scores here
+      
     }
 }
 
